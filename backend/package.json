@@ -4,7 +4,8 @@
   "description": "ornek",
   "main": "index.js",
   "scripts": {
-    "test": "npm run devStart"
+    "test": "npm run devStart",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
