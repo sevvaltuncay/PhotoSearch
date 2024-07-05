@@ -2,10 +2,10 @@
   "name": "ornek",
   "version": "1.0.0",
   "description": "ornek",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "npm run devStart",
-    "start": "node server.js"
+    "start": "node server.js",
+    "devStart": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
